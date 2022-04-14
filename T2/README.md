@@ -17,7 +17,11 @@ The goal is to be able to, through the form as an interface:
   <li> Update a person's relations in the family tree </li>
 </ul>
 
-This form manipulates the entries on 3 different tables:
+This form manipulates the entries on 4 different tables:
+
+-> "Persons"
+
+![image](https://user-images.githubusercontent.com/13381706/163301563-492a6753-1ace-4951-b65e-00b229e5f203.png)
 
 -> "Married With"
 
